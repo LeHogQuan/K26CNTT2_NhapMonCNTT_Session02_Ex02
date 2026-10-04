@@ -1,0 +1,5 @@
+Phần 1:
+Bình dùng đường đẫn tuyệt đối phụ thuộc vào ổ đĩa và tên người dùng. Khi chuyển sang máy khác của thẩy cô, đường dẫn có thể không tồn tại va gây lỗi FileNotFoundError
+Phần 2:
+-Thay đường dẫn tuyệt đối bằng đường dẫn tương đối image_path = "assets/logo.png"
+-assets là thư mục con của Session-02, chứa file logo.png
